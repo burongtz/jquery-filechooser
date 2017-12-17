@@ -9,3 +9,5 @@ Plugin JQuery to show filechooser.
     $('.file-chooser').simpleFileChooser();
   </script>
 ```
+## Result
+![alt text](https://github.com/burongtz/jquery-filechooser/blob/master/result.png)
