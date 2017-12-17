@@ -5,6 +5,8 @@ Plugin JQuery to show filechooser.
 ```
   <input type="file" class="file-chooser" multiple>
   
+  <input type="file" class="file-chooser">
+  
   <script>
     $('.file-chooser').simpleFileChooser();
   </script>
