@@ -1,4 +1,4 @@
-# JQuery File Chooser
+# JQuery Simple File Chooser
 Plugin JQuery to show filechooser.
 
 ## How to use
